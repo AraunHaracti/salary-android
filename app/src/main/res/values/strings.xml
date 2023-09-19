@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Зарплата</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="salary">Зарплата</string>
+    <string name="send">Отправить</string>
+    <string name="back">Возврат</string>
+</resources>
